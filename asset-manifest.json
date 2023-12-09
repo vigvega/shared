@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vigvega/shared/static/css/main.b2d0b5bc.css",
+    "main.js": "/vigvega/shared/static/js/main.360c7213.js",
+    "static/js/787.f9fb97f2.chunk.js": "/vigvega/shared/static/js/787.f9fb97f2.chunk.js",
+    "static/media/node2.png": "/vigvega/shared/static/media/node2.60cba233db05c1873bf0.png",
+    "static/media/githublogo.png": "/vigvega/shared/static/media/githublogo.987334e9f782cc505f25.png",
+    "index.html": "/vigvega/shared/index.html",
+    "main.b2d0b5bc.css.map": "/vigvega/shared/static/css/main.b2d0b5bc.css.map",
+    "main.360c7213.js.map": "/vigvega/shared/static/js/main.360c7213.js.map",
+    "787.f9fb97f2.chunk.js.map": "/vigvega/shared/static/js/787.f9fb97f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d0b5bc.css",
+    "static/js/main.360c7213.js"
+  ]
+}
