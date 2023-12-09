@@ -17,7 +17,7 @@ function App() {
           <span className="text-red-500 italic">ED</span>
         </blockquote>
         <br></br>
-        <span className="text-white w-2/3 items-center text-center md:text-left">An useful tool design to share and make collaborative notes with your friends</span>
+        <span className="text-white w-2/3 items-center text-center md:text-left">An useful tool designed to share and make collaborative notes with your friends</span>
 
         <br></br>
         <div className="space-x-5 space-y-10 font-mono">
